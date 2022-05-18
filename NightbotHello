@@ -1,0 +1,3 @@
+if (a == "Harvey_James"){"Go away, harvey.".}
+else if (a == "chuckthetuna"){"hey chuck".}
+else {"hello $(user)!"}
